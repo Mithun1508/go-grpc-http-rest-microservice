@@ -1,4 +1,5 @@
-![1](1.jpg)
+![1](https://user-images.githubusercontent.com/93249038/219044259-7bd51802-6418-4e9c-92f4-2946573438f3.jpg)
+
 
 Prerequisites
 This article is not training material for Go language. I assume you have some experience already.
@@ -193,7 +194,8 @@ go build .
 client-grpc.exe -server=localhost:9090
 If we see something like this:
 
-![vscode](vscode.jpg)
+![vscode](https://user-images.githubusercontent.com/93249038/219044347-1cfdca16-4b54-4d32-85f4-fe2cf35cc751.jpg)
+
 
 2018/09/09 09:16:01 Create result: <api:"v1" id:13 >
 2018/09/09 09:16:01 Read result: <api:"v1" toDo:<id:13 title:"title (2018-09-09T06:16:01.5755011Z)" description:"description (2018-09-09T06:16:01.5755011Z)" reminder:<seconds:1536473762 > > >
